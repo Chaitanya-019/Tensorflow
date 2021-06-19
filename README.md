@@ -1,0 +1,2 @@
+# Tensorflow
+This repository contains basics of using tensorflow along with the implementation of linear regression and classification using only tensorflow.  This also contains implementatoin of Data augumentation technique which is used when we are lack of sufficient data. This also contains the Classification of Mnist Dataset in keras using the neural layer in Keras module which is indeed a part of Tensorflow module
